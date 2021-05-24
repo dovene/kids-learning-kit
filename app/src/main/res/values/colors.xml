@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorActionMode">#90CAF9</color>
+    <color name="primaryForeColor">@color/white</color>
+    <color name="secondaryForeColor">@color/yellow</color>
+    <color name="secondaryBackground">#267326</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="white_highlight">#66FFFFFF</color>
+
+    <color name="colorSecondary">@color/deep_blue_sky</color>
+    <color name="colorGrey">#858585</color>
+    <color name="colorGrey1">#737373</color>
+    <color name="colorGrey2">#4F4F4F</color>
+    <color name="colorRed2">#F90101</color>
+
+    <color name="main_text">@color/green_dark</color>
+    <color name="tab_color">@color/green_dark</color>
+    <color name="colorAlert">@color/colorRed2</color>
+
+    <!--Indigo 500-->
+    <color name="primary_500">#3F51B5</color>
+    <!--Indigo 700-->
+    <color name="primary_700">#303F9F</color>
+    <!--Pink 500-->
+    <color name="accent_500">#E91E63</color>
+    <!--Pink 700-->
+    <color name="accent_700">#C2185B</color>
+    <color name="black_trans80">#14000000</color>
+
+    <color name="green_dark">#033e03</color>
+
+    <color name="blue_grey">#455A64</color>
+    <color name="red">#F44336</color>
+    <color name="pink">#E91E63</color>
+    <color name="purple">#9C27B0</color>
+    <color name="deep_purple">#673AB7</color>
+    <color name="indigo">#3F51B5</color>
+    <color name="blue">#2196F3</color>
+    <color name="blue_best">#0198E1</color>
+    <color name="light_blue">#03A9F4</color>
+    <color name="cyan">#00BCD4</color>
+    <color name="teal">#009688</color>
+    <color name="green">#4CAF50</color>
+    <color name="light_green">#8BC34A</color>
+    <color name="lime">#CDDC39</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="amber">#FFC107</color>
+    <color name="orange">#FF9800</color>
+    <color name="deep_orange">#FF5722</color>
+    <color name="deep_blue_sky">#00688B</color>
+    <color name="deep_blue_sky1">#009ACD</color>
+    <color name="deep_blue_sky2">#00B2EE</color>
+    <color name="red_light">#990000</color>
+    <color name="steelblue3">#4F94CD</color>
+    <color name="indigo_deep">#0D4F8B</color>
+
+    <color name="orange_other">#ffa614</color>
+
+    <color name="list_background_color">@color/colorPrimary</color>
+    <color name="blur_color">#20000000</color>
+    <color name="blur_dark_color">#50000000</color>
+    <color name="blur_green_color">#8000FF00</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="black_alpha">#C0000000</color>
+    <color name="panel_a95">#F2242b33</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+</resources>
